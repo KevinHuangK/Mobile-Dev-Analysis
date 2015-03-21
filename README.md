@@ -33,10 +33,10 @@ Analysis of android or java
 | Android图片处理                                    |  Stardust,Geome-try,Francs001                            |        |
 | Android多媒体开发                                  |   DragonLz,zjj7725,myValentine12  |        |
 | Java类集框架原理以及实现                           | gcq0409,skyline71,Taraer          |        |
-| Java并发(多线程等)                                 |          |        |
-| NDK                                                |          |        |
-| Android四大组件（一）：activity，service           |cappuccinoqi,liuyubo,shidm      |        |
-| Android四大组件（二）：contentprovider，broadcaster|4Lyu          |        |
-| Android数据通信（AIDL等）                          |          |        |
+| Java并发(多线程等)                                 |    KevinHuangK      |        |
+| NDK                                                |       KevinHuangK   |        |
+| Android四大组件（一）：activity，service           |cappuccinoqi,liuyubo,shidm      |      |
+| Android四大组件（二）：contentprovider，broadcaster|4Lyu KevinHuangK         |     |
+| Android数据通信（AIDL等）                          |      KevinHuangH    |        |
 | Android插件化（Java类加载）                        |    Dflybirds  |        |
 
